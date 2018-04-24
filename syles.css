@@ -1,0 +1,205 @@
+
+
+/* van bar */
+nav{
+  background-color: #c12127;
+  color: rgba(255,255,255, 0.8);
+  padding-top: 15px;
+  height: 30px;
+}
+
+nav a{
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.container{
+  margin: 0 auto;
+  width: 1200px;
+  padding-top: 75px 0;
+}
+/* header top*/
+.top-links{
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li{
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.top-left{
+  display: inline-block;
+  float: left;
+  margin: 0 15px;
+
+}
+
+
+.clearfix {
+  clear: both;
+}
+
+
+.col {
+  float: left;
+}
+
+.col-3 {
+  width: 33.3%;
+}
+.header{
+  background-color: rgb(32, 101, 136);
+  background-attachment: fixed;
+}
+.for-build{
+  float: right;
+  height: 200px;
+  width: 400px;
+
+}
+
+
+.search-bar img{
+  margin: 10px 0 0 0;
+  height: 55px;
+  width: 130px;
+}
+
+.search-bar form{
+  display: inline-block;
+}
+
+.example input{
+  width: 80%;
+  
+}
+.header a{
+  text-decoration: none;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: white;
+}
+
+.build-in{
+  margin: 0 auto;
+  width: 80%;
+  
+}
+
+.build-in h1{
+  color: white;
+  
+}
+.build-in p{
+  text-align: left;
+  color: white;
+ 
+}
+
+/* section collaboration*/
+
+#section1{
+  background-color: rgb(39, 53, 71);
+  margin: 0 auto;
+}
+.collaboration{
+  
+  float: right;
+  color: white;
+}
+
+#section1 img{
+  height: 350px;
+  width: 500px;
+
+}
+
+.head2{
+  font-size: 2em;
+}
+.collaboration a{
+  text-decoration: none;
+  color: white;
+}
+
+.link-btn1{
+  background-color: rgb(203, 56, 55);
+  display: block;
+  font-family: 'Roboto Condensed';
+  font-size: 1.2em;
+  letter-spacing: 0.5px;
+  margin: 40px auto 0;
+  padding: 14px 20px;
+  text-align: center;
+  text-decoration: none;
+  width: 140px;
+  border-radius: 20px 20px;
+}
+/****************section2**************/
+
+#section2{
+  background-image: url(../starter-code/images/red-car.png);
+  background-size: cover;
+  
+  height: 500px;
+  position: relative;
+  
+}
+
+.div-section2{
+  padding-top: 5px;
+  color: white;
+  position: absolute;
+  margin: 20px 25px 20px 150px;
+  
+}
+.paragra-section2{
+margin: 20px 25px 20px 25px;
+  width: 300px;
+  height: 80px;
+  font-size: 20px;
+}
+
+.link-btn2{
+  background-color: rgb(203, 56, 55);
+  display: block;
+  font-family: 'Roboto Condensed';
+  font-size: 1.2em;
+  letter-spacing: 0.5px;
+  margin: 180px 50px 180px 30px;
+  padding: 14px 50px;
+  text-align: center;
+  text-decoration: none;
+  width: 140px;
+  position: relative;
+  border-radius: 20px 20px;
+}
+
+.div-section2 a{
+  color: white;
+}
+
+
+/**********************section3***********************/
+#section3 h2{
+  text-align: center;
+  padding-top: 50px;
+  font-size: 2.2em;
+}
+#section3 p{
+  text-align: center;
+  padding-top: 30px;
+}
+
+.boxes h3{
+  text-align: center;
+}
+ 
+
+
+
